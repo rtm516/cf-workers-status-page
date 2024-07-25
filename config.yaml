@@ -22,13 +22,6 @@ monitors:
     expectStatus: 200
     linkable: true
 
-  - id: wiki
-    name: 'Wiki'
-    url: 'https://wiki.geysermc.org'
-    method: GET
-    expectStatus: 200
-    linkable: true
-
   - id: api
     name: 'Global API'
     url: 'https://api.geysermc.org/health'
